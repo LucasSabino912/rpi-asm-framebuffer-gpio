@@ -1,2 +1,2 @@
 # rpi-asm-framebuffer-gpio
-An image in Assembly emulated with Raspberry PI3 and QEMU
+An image emulated in Assembly  with Raspberry PI3 and QEMU
